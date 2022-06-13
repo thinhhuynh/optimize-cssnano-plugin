@@ -28,8 +28,8 @@
     "webpack": "^4.0.0"
   },
   "dependencies": {
-    "cssnano": "^4.0.0",
-    "cssnano-preset-default": "^4.0.0",
+    "cssnano": "^5.0.0",
+    "cssnano-preset-default": "^5.0.0",
     "postcss": "^7.0.0"
   },
   "devDependencies": {
